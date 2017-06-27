@@ -15,7 +15,6 @@
 		</environment>
 	</environments>
 	<mappers>
-		<mapper resource="com/eduask/mapper/StuMapper.xml"/>
 		<mapper resource="com/eduask/mapper/ClassMapper.xml"/>
 	</mappers>
 </configuration>
